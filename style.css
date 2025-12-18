@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color:blueviolet;
+    font-style: italic;
+    font: bold;
+    font-size: 40px;
+}
+button{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    background:rgb(105, 170, 130);
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
