@@ -2,18 +2,38 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background: #842525;
+    display:flex;
+    justify-content: center;
+text-align: center;
+margin-top: 60px;
+    align-items: center;
+flex-direction: column;
+    font-family: sans-serif;
+}
 h1{
-    color:blueviolet;
+    color:rgb(45, 226, 17);
     font-style: italic;
     font: bold;
     font-size: 40px;
 }
+p{
+    color: white;
+    font-size: 15px;
+    margin: 20px;
+}
 button{
     padding: 10px 20px;
     border: 1px solid gray;
-    background:rgb(105, 170, 130);
+    background:rgb(116, 164, 132);
     font-size: 20px;
     margin: 20px;
     border-radius: 20px;
+}
+button:hover{
+    background: rgb(75, 136, 108);
+    color: white;
+    cursor: pointer;
 }
 
